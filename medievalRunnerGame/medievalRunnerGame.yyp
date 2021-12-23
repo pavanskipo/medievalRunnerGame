@@ -2,9 +2,17 @@
   "resources": [
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":1,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":1,},
+    {"id":{"name":"scr_detect_key","path":"scripts/scr_detect_key/scr_detect_key.yy",},"order":0,},
     {"id":{"name":"spr_enemy_standing","path":"sprites/spr_enemy_standing/spr_enemy_standing.yy",},"order":2,},
+    {"id":{"name":"scr_collision_check","path":"scripts/scr_collision_check/scr_collision_check.yy",},"order":3,},
     {"id":{"name":"spr_player_run","path":"sprites/spr_player_run/spr_player_run.yy",},"order":0,},
+    {"id":{"name":"scr_jump_check","path":"scripts/scr_jump_check/scr_jump_check.yy",},"order":2,},
+    {"id":{"name":"spr_player_fall","path":"sprites/spr_player_fall/spr_player_fall.yy",},"order":5,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":0,},
+    {"id":{"name":"spr_player_jump","path":"sprites/spr_player_jump/spr_player_jump.yy",},"order":4,},
+    {"id":{"name":"scr_ground_check","path":"scripts/scr_ground_check/scr_ground_check.yy",},"order":1,},
+    {"id":{"name":"scr_set_sprite","path":"scripts/scr_set_sprite/scr_set_sprite.yy",},"order":4,},
+    {"id":{"name":"spr_player_slide","path":"sprites/spr_player_slide/spr_player_slide.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
